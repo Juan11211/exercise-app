@@ -1,0 +1,2 @@
+Stack -- material ui
+The Stack component manages layout of immediate children along the vertical or horizontal axis with optional spacing and/or dividers between each child.
